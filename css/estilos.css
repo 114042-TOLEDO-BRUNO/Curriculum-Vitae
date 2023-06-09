@@ -38,12 +38,7 @@
 .bg-primary{
   background-color: rgb(255, 255, 255);
 }
-.titulos {
-    font-family: "HARLOWSI",sans-serif;
-    font-size: 40px;
-    font-weight: bold;
-    color: rgb(255, 255, 255);
-  }
+
   body {
     overflow-x: hidden;
   }
@@ -59,7 +54,7 @@
   
   .titulos{
     font-family: 'Roboto Mono', monospace;
-    font-size: 60px;
+    font-size: 45px;
     color:white;
     letter-spacing: 1px;
   }
